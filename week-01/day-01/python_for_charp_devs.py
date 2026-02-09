@@ -15,6 +15,9 @@ is_learning = True  # not 'true' like JS
 
 print(f"Hello, {name}!")  # f-strings = template literals
 
+name = "Alice"  # variables are mutable by default
+print(f"Hello, {name}!")
+
 
 # ============================================
 # 2. LISTS (like arrays)
